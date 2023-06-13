@@ -14,8 +14,8 @@ This is a currency converter that incorporates the following functionalities:
 3. Run "CConverter.jar" and enjoy the application.
 
 # ⚙️ Requirements:
-- Windows operating system.
-- Java 17 or higher installed (you can download it [here](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)).
+- Windows, Linux or macOS operating system.
+- Java 17 or higher installed (you can download it for Windows [here](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe), for Linux [here](https://www.oracle.com/java/technologies/downloads/#jdk17-linux) and for macOS [here](https://www.oracle.com/java/technologies/downloads/#jdk17-mac)).
 
 # ❓ Frequently Asked Questions:
 **Q: Why doesn't the application update automatically to the latest version anymore?**  
