@@ -4,7 +4,7 @@ This is a currency converter that incorporates the following functionalities:
 - **Real-time conversion:** Get real-time results while you type, with the exchange rate value always updated directly from the European Commission's databases. For more information about the data source used, see [here](https://exchangerate.host/#/).   
 ![Vídeo sin título ‐ Hecho con Clipchamp (1)](https://github.com/paulgutv/currency-converter/assets/89319522/4240c364-c8f2-4944-8fe5-d527698f1920)
 
-- **Simultaneous conversions:** Perform multiple conversions simultaneously, increase or decrease the amount according to your preference. 
+- **Simultaneous conversions:** Perform multiple conversions simultaneously, increase or decrease the amount according to your preference.  
 ![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/paulgutv/currency-converter/assets/89319522/8f9a66f1-78ba-4984-97cc-f7fee3f9fc32)
 
 - **Display of the conversion exchange rate:** Obtain the updated exchange value for each conversion.  
