@@ -6,7 +6,7 @@
 
     <groupId>com.paulgutv</groupId>
     <artifactId>currency-converter</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>v1.2</version>
     <name>CurrencyConverter</name>
 
     <properties>
@@ -75,7 +75,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.paulgutv.currencyconverter/com.paulgutv.currencyconverter.HelloApplication
+                            <mainClass>com.paulgutv.currencyconverter
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

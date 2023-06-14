@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="currency-converter:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/currency_converter_jar</output-path>
-    <root id="archive" name="currency-converter.jar">
+  <artifact type="jar" name="App">
+    <output-path>$PROJECT_DIR$/out/artifacts/App</output-path>
+    <root id="archive" name="CConverter.jar">
       <element id="module-output" name="currency-converter" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.7/javafx-fxml-17.0.7.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20230227/json-20230227.jar" path-in-jar="/" />
